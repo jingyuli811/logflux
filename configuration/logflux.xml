@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no" ?>
+<Tabs>
+  <Tab name="default">
+    <ip>127.0.0.1</ip>
+    <port>666</port>
+    <bufsize>512</bufsize>
+    <loglevels>
+      <level type="debug" value="1"/>
+      <level type="info" value="1"/>
+      <level type="warn" value="1"/>
+      <level type="error" value="1"/>
+    </loglevels>
+    <filters>
+      <black>
+      </black>
+      <white>
+      </white>
+    </filters>
+  </Tab>
+</Tabs>
