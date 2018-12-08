@@ -5,12 +5,14 @@ An udp log system monitor
 * TinyXML2 https://github.com/leethomason/tinyxml2
 * WTL10 https://sourceforge.net/projects/wtl/files/WTL%2010/
 
-Download the above libraries and place them in the following arrangemtn.
+Download the above libraries and place them in the following arrangement.
 
+```
 project(any name you like)
   |-logflux
   |-WTL
   |-tinyxml2
+  ```
 
 # Build
 This is a long time ago project and was started only to support Windows platform. 
