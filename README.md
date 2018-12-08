@@ -51,7 +51,7 @@ This will open a page listing to 127.0.0.1:666 and receive all logs sent to this
 Adding more tabs is possible, just need to add another <Tab></Tab> section under <Tabs> tag.
   
 # Snapshot
-
+![logflux snapshot](/doc/logflux.png)
 
 # TODO
 This project may exist many bugs because it had been out of maintenance since years ago.  
